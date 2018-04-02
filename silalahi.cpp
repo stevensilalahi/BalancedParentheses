@@ -1,6 +1,4 @@
 //Steven Silalahi
-//CS 421- Theory of Computing
-//Programming Assignment 2
 
 #include <iostream>
 #include <string>
